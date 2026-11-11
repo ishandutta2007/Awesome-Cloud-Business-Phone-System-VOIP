@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C9%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Business-Phone-System-VOIP/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
@@ -63,7 +63,7 @@ A comparison of leading commercial cloud business phone systems, detailing compa
 
 *Self-hosted open-source PBX servers, SIP proxies, Session Border Controllers (SBC), and WebRTC gateways. Sorted by GitHub stargazers (descending).*
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |:---|:---:|:---|
 | **[Janus WebRTC Gateway](https://github.com/meetecho/janus-gateway)** | [![Stars](https://img.shields.io/github/stars/meetecho/janus-gateway?style=social&color=white)](https://github.com/meetecho/janus-gateway/stargazers) | General-purpose, lightweight WebRTC gateway by Meetecho. Bridges browser-based real-time media streams to SIP backends, PBXs, and RTP streaming servers. |
 | **[Fonoster](https://github.com/fonoster/fonoster)** | [![Stars](https://img.shields.io/github/stars/fonoster/fonoster?style=social&color=white)](https://github.com/fonoster/fonoster/stargazers) | Open-source alternative to Twilio. Programmable telecommunications framework allowing developers to deploy voice agents, programmable IVRs, and SIP routing via modern APIs. |
