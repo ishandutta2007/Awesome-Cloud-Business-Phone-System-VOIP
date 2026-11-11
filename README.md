@@ -1,6 +1,6 @@
 # Awesome-Cloud-Business-Phone-System-VOIP
 
-# Top Cloud Business Phone System & VoIP Ecosystem
+## Top Cloud Business Phone System & VoIP Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Cloud PBX, Unified Communications & Business Telephony Automation*  
